@@ -1,0 +1,27 @@
+
+body {
+    background-image: url("https://pngtree.com/freepng/hayao-miyazaki-anime-style-sushi_1246263.html");
+    background-color:#99ffcc    
+}
+img {
+	width:400px;
+	height:300px;    
+}
+.imgicons {
+    width:150px;
+    height:150px;
+    border:0
+}
+h1 {
+	width: 50%:;
+	font-size: 300%;
+	font-style: Verdana
+}
+h2{
+ font-size: 200%:;
+ font-style: Arial;  
+}	
+p {
+	font-size: 180%;
+    font-style: Times New Roman
+}
